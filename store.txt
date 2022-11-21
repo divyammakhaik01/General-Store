@@ -1,0 +1,5 @@
+ 1 apple  1000 10
+ 2 mango  1200 12
+ 12 grapes  120 0
+ 400 Cherry  900 1
+ 132 mango  144 12
